@@ -18,6 +18,5 @@ argument:
 
 example:
 mv Function_format.c count_to_10.c
-mv header_format.h holberton.h
 
 Let me know any questions o suggestions.
