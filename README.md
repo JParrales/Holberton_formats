@@ -5,7 +5,8 @@ This Repository contains formats to create files in:
 1. C -> Functions
 2. C -> Header
 3. Python
-4. Bash
+4. Python Classes
+5. Bash
 
 To use, clone the repository and copy the formats in the folders where you want
 to create files using the "cp" command.
