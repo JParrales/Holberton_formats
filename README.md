@@ -2,10 +2,10 @@
 
 This Repository contains formats to create files in:
 
-• C -> Functions
-• C -> Header
-• Python
-• Bash
+1. C -> Functions
+2. C -> Header
+3. Python
+4. Bash
 
 To use, clone the repository and copy the formats in the folders where you want
 to create files using the "cp" command.
@@ -19,3 +19,4 @@ argument:
 mv Function_format.c count_to_10.c
 mv header_format.h holberton.h
 
+Let me know any questions o suggestions.
